@@ -68,7 +68,7 @@
 						<includes>
 							<include>**/*Tests.java</include>
 						</includes>
-						<!-- <systemPropertyVariables> <jruby.home>${jruby.home}</jruby.home> 
+						<!-- <systemPropertyVariables> <jruby.home>${jruby.home}</jruby.home>
 							</systemPropertyVariables> -->
 					</configuration>
 
